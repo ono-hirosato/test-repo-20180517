@@ -1,2 +1,3 @@
 # test-repo-20180517
-edit from my work branch
+This is test repo's readme!
+Please read this readme carefully.
